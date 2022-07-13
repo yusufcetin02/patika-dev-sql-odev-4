@@ -1,5 +1,5 @@
-# patika-dev-sql-odev-5
-patika dev sql ödev 5
+# patika-dev-sql-odev-4
+patika dev sql ödev 4
 
 --  film tablosunda bulunan replacement_cost sütununda bulunan birbirinden farklı değerleri sıralayınız.
 SELECT DISTINCT(replacement_cost) FROM film;
